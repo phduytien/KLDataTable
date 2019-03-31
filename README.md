@@ -22,7 +22,7 @@ pod 'KLDataTable'
 
 ## Author
 
-Tien Pham, tienpham@nvg.vn
+Tien Pham, phduytien4891@gmail.com
 
 ## License
 
