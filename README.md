@@ -1,2 +1,29 @@
 # KLDataTable
-Customize UITableView for displaying multiple columns in UITableViewCell
+
+[![CI Status](https://img.shields.io/travis/Tien Pham/KLDataTable.svg?style=flat)](https://travis-ci.org/Tien Pham/KLDataTable)
+[![Version](https://img.shields.io/cocoapods/v/KLDataTable.svg?style=flat)](https://cocoapods.org/pods/KLDataTable)
+[![License](https://img.shields.io/cocoapods/l/KLDataTable.svg?style=flat)](https://cocoapods.org/pods/KLDataTable)
+[![Platform](https://img.shields.io/cocoapods/p/KLDataTable.svg?style=flat)](https://cocoapods.org/pods/KLDataTable)
+
+## Example
+
+To run the example project, clone the repo, and run `pod install` from the Example directory first.
+
+## Requirements
+
+## Installation
+
+KLDataTable is available through [CocoaPods](https://cocoapods.org). To install
+it, simply add the following line to your Podfile:
+
+```ruby
+pod 'KLDataTable'
+```
+
+## Author
+
+Tien Pham, tienpham@nvg.vn
+
+## License
+
+KLDataTable is available under the MIT license. See the LICENSE file for more info.
